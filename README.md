@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+#My Personal Website
 
 A personal website to wow recruiters so they give me interviews. 
 
