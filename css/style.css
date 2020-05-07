@@ -52,9 +52,20 @@ body {
 
 .center3 {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 img {
-    border-radius: 20%;
-  }
+    border-radius: 10%;
+}
+
+.legal {
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 10px;
+    padding-top: 200px;
+}
+
+.left-title {
+    padding: 40px 0 20px 400px;
+}
