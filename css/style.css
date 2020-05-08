@@ -3,7 +3,7 @@
 } */
 body {
     /* background-image: linear-gradient(greenyellow, white); */
-    background-image: linear-gradient(to top left, rgb(173,255,47,0),rgb(173,255,47,1));
+    background-image: linear-gradient(to top left, rgb(0,255,255,0),rgb(0,255,255,1));
 }
 
 body {
@@ -67,9 +67,9 @@ img {
 
 .legal {
     text-align: center;
-    vertical-align: bottom;
-    font-size: 10px;
-    padding-top: 200px;
+    /* vertical-align: bottom; */
+    /* font-size: 10px; */
+    padding-top: 100px;
 }
 
 .left-title {
@@ -86,19 +86,26 @@ img {
     font-family: 'Source Code Pro', monospace;
     font-style: italic;
     font-size: medium;
-    padding-left: 60px;
-    padding-right: 60px;
-    text-align: center;
+    padding-left: 100px;
+    padding-right: 200px;
+    text-align: left;
 }
 
 .blurb-title {
     padding-left: 100px;
     padding-right: 100px;
-    text-align: center;
+    text-align: left;
 }
 
 .email {
     text-align: center;
     vertical-align: bottom;
-    padding-top: 100px;
+    padding-top: 75px;
+}
+
+.right-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
