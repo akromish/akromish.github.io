@@ -1,10 +1,14 @@
-body { 
+/* body { 
     background-color: greenyellow;
+} */
+body {
+    /* background-image: linear-gradient(greenyellow, white); */
+    background-image: linear-gradient(to top left, rgb(173,255,47,0),rgb(173,255,47,1));
 }
 
 body {
     font-family: 'Press Start 2P', cursive;
-    font-weight: 300;
+    /* font-weight: 300; */
    }
    
    h1, h2, h3, h4, h5, h6 {
@@ -51,12 +55,14 @@ body {
 }
 
 .center3 {
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
     text-align: center;
     padding-top: 30px;
 }
 
 img {
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .legal {
@@ -70,7 +76,22 @@ img {
     padding: 40px 0 20px 100px;
 }
 
+.left-title2 {
+    padding: 40px 0 0 100px;
+}
+.left-title3 {
+    padding: 0 0 20px 100px;
+}
 .blurb {
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
+    font-size: medium;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+}
+
+.blurb-title {
     padding-left: 100px;
     padding-right: 100px;
     text-align: center;
