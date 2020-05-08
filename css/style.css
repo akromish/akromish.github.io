@@ -34,7 +34,7 @@ body {
 }
 
 .nav > li > a:hover{
-    color: white;
+    color: greenyellow;
 }
 
 .center1 {
@@ -67,5 +67,17 @@ img {
 }
 
 .left-title {
-    padding: 40px 0 20px 400px;
+    padding: 40px 0 20px 100px;
+}
+
+.blurb {
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 100px;
 }
