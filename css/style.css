@@ -3,7 +3,8 @@
 } */
 body {
     /* background-image: linear-gradient(greenyellow, white); */
-    background-image: linear-gradient(to top left, rgb(0,255,255,0),rgb(0,255,255,1));
+    background-image: linear-gradient(to bottom right, rgb(0,255,255,0),rgb(0,255,255,1),
+    rgb(173,255,47,0),rgb(173,255,47,1));
 }
 
 body {
@@ -69,7 +70,7 @@ img {
     text-align: center;
     /* vertical-align: bottom; */
     /* font-size: 10px; */
-    padding-top: 100px;
+    padding-top: 100px;    
 }
 
 .left-title {
@@ -101,11 +102,28 @@ img {
     text-align: center;
     vertical-align: bottom;
     padding-top: 75px;
+    
 }
 
-.right-pic {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+
+.right-div {
+    float: right;
+    /* position: absolute; */
+    /* right: 20px; */
+    width: 300px;padding: 100px 40px 10px 40px;
+}
+
+
+.wood-image {
+    display: table;
+}
+  
+.right-img {
+    vertical-align: middle;
+    display: table-cell;
+}
+  
+span {
+    vertical-align: middle;
+    display: table-cell;
 }
