@@ -66,6 +66,10 @@ img {
     border-radius: 5%;
 }
 
+big-break {
+    padding-top: 200px;
+}
+
 .legal {
     text-align: center;
     /* vertical-align: bottom; */
@@ -101,7 +105,7 @@ img {
 .email {
     text-align: center;
     vertical-align: bottom;
-    padding-top: 75px;
+    /* padding-top: 25px; */
     
 }
 
