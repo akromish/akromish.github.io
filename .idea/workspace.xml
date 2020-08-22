@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bundler" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="032ee004-e481-42a5-bef6-5fab5a4e9843" name="Default Changelist" comment="added tab favicon">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gHygipWhitpW1MccpdAVmitpme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\akromish_web\akromish.github.io\photos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.ramblings.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/akromish.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ramblings.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/akromish.github.io/html/ramblings.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="woodworking.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/akromish.github.io/html/woodworking.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ramblings.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.woodworking.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="032ee004-e481-42a5-bef6-5fab5a4e9843" name="Default Changelist" comment="" />
+      <created>1597785926365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597785926365</updated>
+      <workItem from="1597785927511" duration="1815000" />
+      <workItem from="1597796223190" duration="258000" />
+      <workItem from="1597796489389" duration="14000" />
+      <workItem from="1597980842863" duration="2059000" />
+      <workItem from="1597984193700" duration="423000" />
+      <workItem from="1598037949696" duration="2000" />
+      <workItem from="1598048408183" duration="929000" />
+      <workItem from="1598052099139" duration="16000" />
+      <workItem from="1598075933670" duration="442000" />
+      <workItem from="1598080838142" duration="116000" />
+    </task>
+    <task id="LOCAL-00001" summary="added some projects">
+      <created>1597787291923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597787291923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added tab favicon">
+      <created>1597787748033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597787748033</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed typos">
+      <created>1597796472777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597796472777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="typos+ramblings page">
+      <created>1597982897830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597982897830</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change to akram.dev">
+      <created>1597984602062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597984602062</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added some projects" />
+    <MESSAGE value="added tab favicon" />
+    <MESSAGE value="fixed typos" />
+    <MESSAGE value="typos+ramblings page" />
+    <MESSAGE value="change to akram.dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="change to akram.dev" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="787" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598080929089">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="787" y="358" key="#com.intellij.fileTypes.FileTypeChooser/2560.215.1920.1030/0.0.2048.1112/-1920.215.1920.1040@0.0.2048.1112" timestamp="1598080929089" />
+    <state width="2027" height="376" key="GridCell.Tab.0.bottom" timestamp="1597982918011">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.bottom/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918011" />
+    <state width="2027" height="376" key="GridCell.Tab.0.center" timestamp="1597982918011">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.center/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918011" />
+    <state width="2027" height="376" key="GridCell.Tab.0.left" timestamp="1597982918011">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.left/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918011" />
+    <state width="2027" height="376" key="GridCell.Tab.0.right" timestamp="1597982918011">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.0.right/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918011" />
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.bottom/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.1.center" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.center/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.1.left" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.left/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.1.right" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.1.right/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.2.bottom" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.2.bottom/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.2.center" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.2.center/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.2.left" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.2.left/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.2.right" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.2.right/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.3.bottom" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.3.bottom/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.3.center" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.3.center/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.3.left" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.3.left/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state width="2027" height="376" key="GridCell.Tab.3.right" timestamp="1597982918012">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="376" key="GridCell.Tab.3.right/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982918012" />
+    <state x="492" y="176" key="SettingsEditor" timestamp="1597982028098">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597796501615" />
+    <state x="492" y="176" key="SettingsEditor/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597982028098" />
+    <state x="589" y="271" key="Vcs.Push.Dialog.v2" timestamp="1597984603683">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597796474825" />
+    <state x="589" y="271" key="Vcs.Push.Dialog.v2/2560.215.1920.1030/-1920.215.1920.1040/0.0.2048.1112@0.0.2048.1112" timestamp="1597984603683" />
+    <state x="829" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598052103783">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597786455092" />
+    <state x="829" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.215.1920.1030/0.0.2048.1112/-1920.215.1920.1040@0.0.2048.1112" timestamp="1598052103783" />
+  </component>
+</project>
