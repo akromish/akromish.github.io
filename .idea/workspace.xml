@@ -39,13 +39,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032ee004-e481-42a5-bef6-5fab5a4e9843" name="Default Changelist" comment="added tab favicon">
-      <change afterPath="$PROJECT_DIR$/photos/web2_img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/cs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/cs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/woodworking.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/woodworking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/headshot.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,7 @@
       <workItem from="1618188499698" duration="261000" />
       <workItem from="1618188886401" duration="489000" />
       <workItem from="1618245266589" duration="30000" />
-      <workItem from="1622637836756" duration="1143000" />
+      <workItem from="1622637836756" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="added some projects">
       <created>1597787291923</created>
