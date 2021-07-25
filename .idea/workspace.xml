@@ -39,15 +39,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032ee004-e481-42a5-bef6-5fab5a4e9843" name="Default Changelist" comment="added tab favicon">
-      <change beforePath="$PROJECT_DIR$/html/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/cs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/cs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,6 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
@@ -82,7 +84,7 @@
       <recent name="$PROJECT_DIR$/photos" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ramblings.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/akromish.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -94,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ramblings.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.ramblings.html" />
         <item itemvalue="JavaScript Debug.woodworking.html" />
       </list>
     </recent_temporary>
@@ -124,6 +126,7 @@
       <workItem from="1618188886401" duration="489000" />
       <workItem from="1618245266589" duration="30000" />
       <workItem from="1622637836756" duration="1510000" />
+      <workItem from="1627234436726" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="added some projects">
       <created>1597787291923</created>
